@@ -12,7 +12,9 @@ const App = () => {
 };
 ```
 
-> tip: babel jsx mount 等 2. 什么是 react 的状态？react 为什么需要状态？
+2. 什么是 react 的状态？react为什么需要状态？
+
+> tip: babel jsx mount 等
 
 - 触发更新之后两次之间的状态是如何关联的
 
